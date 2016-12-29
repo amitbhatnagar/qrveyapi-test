@@ -1,0 +1,26 @@
+{
+  "name": "qrveyapi-test",
+  "version": "1.0.0",
+  "description": "A sample test for Qrvey's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitbhatnagar/qrveyapi-test.git"
+  },
+  "keywords": [
+    "qrvey"
+  ],
+  "author": "Amit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amitbhatnagar/qrveyapi-test/issues"
+  },
+  "homepage": "https://github.com/amitbhatnagar/qrveyapi-test#readme",
+  "dependencies": {
+    "lodash": "^4.17.3",
+    "request": "^2.79.0"
+  }
+}

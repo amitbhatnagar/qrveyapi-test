@@ -1,0 +1,70 @@
+{
+    "name": "Qrvey API sample",
+    "description": "Sample Survey created using Qrvey API",
+    "customStyle": {
+        "name": "Qrvey Default",
+        "style": {
+            "mainFont": "#ffffff",
+            "imgSize": 150,
+            "questionFont": "#595959",
+            "answerFont": "#595959",
+            "background": "#fafafa",
+            "textFieldBackground": "#f7f7f7",
+            "buttons": "#293b49",
+            "main": "#e6773d"
+        },
+        "userid": "qrveydefault",
+        "styleid": "NJI5oEtiZ",
+        "newChanges": false
+    },
+    "introPage": true,
+    "tempStyle": {
+        "name": "Qrvey Default",
+        "style": {
+            "mainFont": "#ffffff",
+            "imgSize": 150,
+            "questionFont": "#595959",
+            "answerFont": "#595959",
+            "background": "#fafafa",
+            "textFieldBackground": "#f7f7f7",
+            "buttons": "#293b49",
+            "main": "#e6773d"
+        },
+        "userid": "qrveydefault",
+        "styleid": "NJI5oEtiZ",
+        "newChanges": false
+    },
+    "questions": {
+        "data": [
+            {
+                "text": "What is your fav city?",
+                "type": "SINGLE_CHOICE",
+                "answers": [
+                    {
+                        "answer": "SF",
+                        "answerid": "63MDFAA0a0"
+                    },
+                    {
+                        "answer": "NYC",
+                        "answerid": "63MDFAA0a1"
+                    },
+                    {
+                        "answer": "DC",
+                        "answerid": "63MDFAA0aIL36SAAU"
+                    }
+                ],
+                "id": "63MDFAA0",
+                "question": "main",
+                "time": 10
+            }
+        ]
+    },
+    "totalTime": 10,
+    "totalQuestions": 1,
+    "results_visibility": "Public",
+    "respondent_email": "None",
+    "duration": {
+        "neverExpires": true,
+        "from": "2016-12-09T16:22:52.807Z"
+    }
+}
