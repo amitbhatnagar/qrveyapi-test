@@ -15,8 +15,9 @@ API documentation is available at https://apidocs.qrvey.com
 ## How to run
 To run this sample
 
-1. Download the zip file and unzip in a new folder
-2. Open lib/qrveyutil.js and insert the API key
+1. Clone the repository or download the zip file and unzip in a new folder
+2. Open index.js and insert the API key
+3. (Optional) you can change the userBody parameter with any values or choose to load a different json file for qrveyBody in index.js
 3. Open command prompt (or terminal) in the same folder and run 
 
     **npm install && node index.js**
